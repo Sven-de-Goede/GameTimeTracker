@@ -1,0 +1,16 @@
+{
+  "name": "gametimetracker",
+  "productName": "GameTimeTracker",
+  "version": "1.0.0",
+  "description": "App to track game time.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sven de Goede",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^36.5.0",
+    "toastify-js": "^1.12.0"
+  }
+}
